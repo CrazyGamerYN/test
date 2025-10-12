@@ -13,7 +13,7 @@
 0.0.0.0 ad.nl
 0.0.0.0 avrotros.nl
 0.0.0.0 axios.com
-0.0.0.0 bbc.com
+#0.0.0.0 bbc.com
 0.0.0.0 breitbart.com
 0.0.0.0 cbs.com
 0.0.0.0 chatgpt.com
