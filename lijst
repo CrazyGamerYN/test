@@ -48,7 +48,7 @@
 0.0.0.0 rd.nl
 0.0.0.0 reuters.com
 0.0.0.0 revu.nl
-#0.0.0.0 rtl.nl
+0.0.0.0 rtl.nl
 0.0.0.0 shownieuws.nl
 0.0.0.0 slimjet.com
 0.0.0.0 snaplytics.io
@@ -58,7 +58,7 @@
 0.0.0.0 story.nl
 0.0.0.0 surinametimes.com
 0.0.0.0 techspot.com
-0.0.0.0 telegraaf.nl
+#0.0.0.0 telegraaf.nl
 0.0.0.0 theconversation.com
 0.0.0.0 tijdschrift.nl
 0.0.0.0 timesofindia.indiatimes.com
