@@ -10,7 +10,7 @@
 0.0.0.0 android.chat.openai.com
 #
 0.0.0.0 abc.com
-#0.0.0.0 ad.nl
+0.0.0.0 ad.nl
 0.0.0.0 avrotros.nl
 0.0.0.0 axios.com
 0.0.0.0 bbc.com
@@ -88,7 +88,6 @@
 0.0.0.0 bsky.social
 
 #searchengines
-216.239.38.120 www.google.com 
 0.0.0.0 bing.com
 0.0.0.0 search.brave.com
 0.0.0.0 duckduckgo.com
