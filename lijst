@@ -106,8 +106,8 @@
 0.0.0.0 www.story.nl
 0.0.0.0 surinametimes.com
 0.0.0.0 www.surinametimes.com
-0.0.0.0 telegraaf.nl
-0.0.0.0 www.telegraaf.nl
+#0.0.0.0 telegraaf.nl
+#0.0.0.0 www.telegraaf.nl
 0.0.0.0 theconversation.com
 0.0.0.0 www.theconversation.com
 0.0.0.0 tijdschrift.nl
