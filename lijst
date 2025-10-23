@@ -50,8 +50,8 @@
 0.0.0.0 www.gld.nl
 0.0.0.0 geenstijl.nl
 0.0.0.0 www.geenstijl.nl
-0.0.0.0 hartvannederland.nl
-0.0.0.0 www.hartvannederland.nl
+#0.0.0.0 hartvannederland.nl
+#0.0.0.0 www.hartvannederland.nl
 0.0.0.0 hln.be
 0.0.0.0 www.hln.be
 0.0.0.0 hpdetijd.nl
