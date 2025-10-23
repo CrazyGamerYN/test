@@ -46,6 +46,8 @@
 0.0.0.0 www.foxnews.com
 0.0.0.0 ft.com
 0.0.0.0 www.ft.com
+0.0.0.0 gld.nl
+0.0.0.0 www.gld.nl
 0.0.0.0 geenstijl.nl
 0.0.0.0 www.geenstijl.nl
 0.0.0.0 hartvannederland.nl
@@ -58,6 +60,8 @@
 0.0.0.0 www.indiatimes.com
 0.0.0.0 informer.org
 0.0.0.0 www.informer.org
+0.0.0.0 jeugdjournaal.nl
+0.0.0.0 www.jeugdjournaal.nl
 0.0.0.0 libelle.nl
 0.0.0.0 www.libelle.nl
 0.0.0.0 linda.nl
@@ -76,6 +80,8 @@
 0.0.0.0 www.nbcnews.com
 0.0.0.0 nd.nl
 0.0.0.0 www.nd.nl
+0.0.0.0 nieuws365.be
+0.0.0.0 www.nieuws365.be
 0.0.0.0 nieuwspaal.nl
 0.0.0.0 www.nieuwspaal.nl
 0.0.0.0 nu.nl
@@ -128,6 +134,8 @@
 0.0.0.0 www.wyniasweek.nl
 0.0.0.0 yahoo.com
 0.0.0.0 www.yahoo.com
+0.0.0.0 zapp.nl
+0.0.0.0 www.zapp.nl
 
 #social media basic
 0.0.0.0 reddit.com
