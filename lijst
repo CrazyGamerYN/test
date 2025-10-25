@@ -1,13 +1,13 @@
 0.0.0.0 eatout.co.ke
 0.0.0.0 magicalkenya.com
-0.0.0.0 chatgpt.com
-0.0.0.0 auth.openai.com
-0.0.0.0 ab.chatgpt.com
-0.0.0.0 realtime.chatgpt.com
-0.0.0.0 ws.chatgpt.com
-0.0.0.0 www.chatgpt.com
-0.0.0.0 ios.chat.openai.com
-0.0.0.0 android.chat.openai.com
+#0.0.0.0 chatgpt.com
+#0.0.0.0 auth.openai.com
+#0.0.0.0 ab.chatgpt.com
+#0.0.0.0 realtime.chatgpt.com
+#0.0.0.0 ws.chatgpt.com
+#0.0.0.0 www.chatgpt.com
+#0.0.0.0 ios.chat.openai.com
+#0.0.0.0 android.chat.openai.com
 
 #geen terugval leechblock
 0.0.0.0 abc.com
